@@ -1,0 +1,33 @@
+
+*{
+    wedth: auto;
+box-sizing: border-box;
+margin: 0 0;
+padiing: 0
+}
+
+
+.baner { 
+width: 643px;
+height: 1440px;
+display: flex;
+
+}
+.menuprincipal {
+background-color: #91DD8A;
+
+
+    width: auto;
+    height: 52px;
+    display: flex;
+justify-content: space-around;
+
+
+
+
+}
+
+
+
+
+
