@@ -1,9 +1,9 @@
 
 *{
-    wedth: auto;
+    width: auto;
 box-sizing: border-box;
 margin: 0 0;
-padiing: 0
+padding: 0
 }
 
 
@@ -15,11 +15,9 @@ display: flex;
 }
 .menuprincipal {
 background-color: #91DD8A;
-
-
-    width: auto;
-    height: 52px;
-    display: flex;
+width: auto;
+height: 52px;
+display: flex;
 justify-content: space-around;
 
 
