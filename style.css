@@ -18,6 +18,15 @@ display: flex;
 justify-content: space-around;
 }
 
+.força{
+    background-image: linear-gradient(#bf0fff,#f89b29);
+    width: 400px;
+    color: white; 
+    
+
+}
+
+
 
 
 
